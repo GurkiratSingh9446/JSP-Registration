@@ -1,0 +1,5 @@
+DAO\ClassDAO.class
+Bean\UserBean.class
+Bean\ConnectionProvider.class
+Bean\Provider.class
+Bean\ResultBean.class
